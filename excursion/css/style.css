@@ -1,5 +1,5 @@
 html {
-    color: black;
+    background-color: black;
 }
 h1 {
     font-family: Verdana;
@@ -25,7 +25,7 @@ p {
     font-size: 21px;
     color: gray;
 }
-h4 {
+footer {
     color: gray;
     text-align: right;
 }

@@ -1,0 +1,19 @@
+h1 {
+  font-family: Helvetica
+  font-size: 100px;
+  font-weight: bold;
+  color: black;
+/*    background: black;*/
+}
+h2 {
+    font-family: Helvetica;
+    font-size: 32px
+    font-weight: bold;
+}
+h3 {
+  font-size: normal;
+}
+
+.headerBackground {
+    background-image: url(./resources/iamges/the-flatiron-building.png)
+}
